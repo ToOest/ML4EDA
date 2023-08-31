@@ -1,5 +1,4 @@
 # ML4EDA
-Regression and Classification models for EDA energies
+Classification model for EDA energies
 
-Classification model is provided for testsets I and II.
-Pipeline for prediction of EDA energies from xyz file and subsequent classification is shown for molecules of testset II.  
+The trained classification model is loaded and demonstrated on test sets I (from train-test split) and II (holdout data set).
